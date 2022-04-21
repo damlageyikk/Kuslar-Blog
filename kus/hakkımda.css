@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg-2 { 
+background-color: #474e5d;
+color: #ffffff;
+}
+.bg-3 { 
+background-color: #ffffff;
+color: #555555;
+}
+footer {
+  background-color: #333333;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.navbar {
+position: fixed;
+width: 100%;
+z-index: 1;
+}

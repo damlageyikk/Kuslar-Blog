@@ -1,0 +1,62 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+ 
+  .card-img-top:hover {
+    opacity: .9;
+  }
+
+  .img-fluid {
+    width: 100%;
+    height: 300px;
+  }
+
+  .banner {
+    background: url("images/bg1.jpg") no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+  }
+
+  .blog-left a {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 0;
+    color: #473B3B;
+    text-decoration: none;
+  }
+
+  .blog-left a.b-img img {
+    width: 100%;
+    height: auto;
+    margin: 1em 0;
+    object-fit: cover;
+  }
+
+  .blog-left p {
+    font-size: 14px;
+    margin: 0 0 1em 0;
+    color: #473B3B;
+    line-height: 1.8em;
+  }
+
+  .blog-left a.more {
+    color: #bd4932;
+    font-size: 14px;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  #header {
+    background: url(images/bg1.jpg) center center / cover no-repeat;
+  }
+  footer {
+    background-color: #333333;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
